@@ -1,1 +1,3 @@
-file2 info
+file2 info (){
+ fil2 text is here
+}
